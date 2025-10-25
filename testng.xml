@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="D:/TTA_WorkSpace/ATB6xIDrive360Ent/src/test/java/com/thetestingacademy/iDrive360/IDriveLogin.java">
+        <classes>
+            <class name="com.thetestingacademy.iDrive360.IDriveLogin">
+                <methods>
+                    <include name="validLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
